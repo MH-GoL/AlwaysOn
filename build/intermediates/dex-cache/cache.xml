@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_9fca0d5a106920816867bd273af9c837af84e696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_8990a0ed8fe04bf3423ebe29ad71cce0bacd76ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.google.android.support\wearable\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.support-wearable-1.4.0_d1b1416f43aa0d385131e0b04ad779f18c558a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.google.android.support\wearable\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.support-wearable-1.4.0_62570c2cc7ddca2145e77e62a7b32cf8845a70ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_1a5bb6fec9dbd81c522bf10d17c5be2ca9d87d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_6b8e46f2ad2f88c094449074ea5398cc660c06d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3718092051e9d5b60af5cffe4b0039962a4ff1b">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f95b7b309f0c26eb0338464899e220532b5a25b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_055fa2690635344e82dde413263d9dd3afbe6601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_0800c6c771546b13ec3ef112ccdd42f004e00099\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_7b7c6229f64e5637687449d64f5e4af814223b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_ed0294b112321a2328eefca8a2185ac132ac286d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_5b9dd12c6b22822792837653642cba637cdbab45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="18581eabefc52012bcec994cc544da726d55aa22">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ad7dc87b93d6b12d0b42e689049e85f0ba79797c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_4777ded18faf6b4f3b59ee235a128ebc05a77538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e86efcbde2d5df15f1d7fc6aa16c122becc13b2d">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_144f7c4224cb1ec797169f91c2eb6217f22c37cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha9_88af8dcd81953c79c3fce174a42c85c365be5d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_6a0490e0d93d496ceab48ac6f02b5f42f6bd0fad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_da026e3f66bb95c45ad071dcd0f6e70fc5c3b2ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_125908d7227b8d8b3d0666842a8ff951f7cbc553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_123820e565418d091ebce3e1bf75d218e2086ff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha9_dad62b9352823246cdccb26ce6961e7454be3e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_e077e43cfd53ce4a49934c0a2f37a3adef73fa6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_9c0758d9b0a90ec2573b66032d52833f801e6f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="46aeab4f63f3f9349d43331d97cc6d9482644050">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b30f150f3ec87578848aea7e565f8c4f3d3d5b0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Android\Projekte\AlwaysOn\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_56d2b7b3381b4eb260d9ff3f0b7f20eb7f4d83b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Android\Projekte\AlwaysOnApp\Wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_ff55dc6c5f6187e8e66b3d80b9b85a05511b8144\classes.dex" />
+    </item>
+
+</items>

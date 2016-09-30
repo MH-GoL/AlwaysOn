@@ -4,9 +4,8 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="1178441757395955"
-    token="-8838335716924628271"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1178800455459222"
+    token="-8838335716924628271" >
 
     <task
         name="javac"
@@ -28,8 +27,6 @@
             location="D:\Android\Projekte\AlwaysOnApp\Wearable\build\outputs\apk\Wearable-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="1178441757395955"
-        verifier="COLD_SWAP_REQUESTED" />
+    <build timestamp="1178800455459222" />
 
 </instant-run>
