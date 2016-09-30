@@ -1,0 +1,7 @@
+#Sat Oct 01 01:04:19 CEST 2016
+base.0=D\:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_144f7c4224cb1ec797169f91c2eb6217f22c37cc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f95b7b309f0c26eb0338464899e220532b5a25b3\\classes.dex
+base.1=D\:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f95b7b309f0c26eb0338464899e220532b5a25b3
+file.0=D\:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_144f7c4224cb1ec797169f91c2eb6217f22c37cc\\classes.dex

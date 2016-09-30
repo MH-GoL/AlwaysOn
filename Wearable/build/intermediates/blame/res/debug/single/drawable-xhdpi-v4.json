@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_full_sad.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\ic_full_sad.png"
+    },
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card_frame_pressed.9.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\card_frame_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card_frame.9.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\card_frame.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card_frame.9.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\card_frame.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_full_cancel.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\ic_full_cancel.png"
+    },
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card_frame_pressed.9.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOn\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\card_frame_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_full_cancel.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\ic_full_cancel.png"
+    },
+    {
+        "merged": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_full_sad.png",
+        "source": "D:\\Android\\Projekte\\AlwaysOnApp\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable-xhdpi-v4\\ic_full_sad.png"
+    }
+]
